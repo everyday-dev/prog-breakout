@@ -5,9 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "nucleo-stlink-adapter")
-    (date "2020-08-21")
-    (rev "1")
+    (title "prog-breakout")
+    (date "2022-12-30")
+    (rev "B")
+    (company "greatlakesdev")
+    (comment 1 "CC-BY-SA")
   )
 
   (lib_symbols
